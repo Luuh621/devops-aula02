@@ -1,5 +1,5 @@
-#xadrez
+# xadrez
 
-#dama
+# dama
 
-#Baralho
+# Baralho
