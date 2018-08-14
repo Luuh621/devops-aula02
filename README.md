@@ -1,7 +1,7 @@
 # devops-aula02
 
-Roupa Nova
+#Roupa Nova
 
-Katinguele
+#Katinguele
 
-Chiclete com banana
+#Chiclete com banana
