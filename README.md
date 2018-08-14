@@ -1,7 +1,7 @@
 # devops-aula02
 
-#Roupa Nova
+# Gretchen
 
-#Katinguele
+# Alexis Texas
 
-#Chiclete com banana
+# Sasha Grey
