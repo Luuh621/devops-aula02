@@ -1,8 +1,7 @@
 # devops-aula02
-#Sérgio Hondjackoff
 
-#Rick
+Roupa Nova
 
-#Morty
+Katinguele
 
-#Meu ovo
+Chiclete com banana
