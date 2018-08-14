@@ -1,4 +1,4 @@
 # devops-aula02
-Sérgio Hondjackoff
-Rick
-Morty
+#Sérgio Hondjackoff
+#Rick
+#Morty
