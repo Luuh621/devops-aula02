@@ -1,7 +1,7 @@
-# devops-aula02
+#devops-aula02
 
-# Sérgio Hondjackoff
+#Sérgio Hondjackoff
 
-# Rick
+#Rick
 
-# Morty
+#Morty
