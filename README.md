@@ -1,7 +1,7 @@
 # devops-aula02
 
-# Gretchen
+# Sérgio Hondjackoff
 
-# Alexis Texas
+# Rick
 
-# Sasha Grey
+# Morty
